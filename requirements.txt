@@ -1,1 +1,12 @@
 pandas-bokeh
+ray
+spektral
+protobuf==3.19.0
+pillow
+pydot
+tqdm
+redis
+parameterized
+dragonfly-opt==0.1.5 -v
+cython
+POT
