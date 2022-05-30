@@ -6,8 +6,8 @@ channels:
 
 dependencies:
   - bokeh
-  - cudnn=7.6.5__cuda-10.1
   - cudatoolkit=10.1
+  - cudnn=7.6
   - cupy
   - dask
   - dask-ml
