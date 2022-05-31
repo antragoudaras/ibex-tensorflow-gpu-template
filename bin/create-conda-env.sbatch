@@ -1,6 +1,6 @@
 #!/bin/bash
-#SBATCH --time=2:00:00
-#SBATCH --cpus-per-task=2
+#SBATCH --time=1:00:00
+#SBATCH --cpus-per-task=1
 #SBATCH --mem=8G
 #SBATCH --partition=debug
 #SBATCH --constraint=intel

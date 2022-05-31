@@ -1,12 +1,15 @@
-pandas-bokeh
 ray
 spektral
 protobuf==3.19.0
+scikit-learn
+tensorflow==2.3.0
 pillow
+tensorflow--addons==0.11.2
 pydot
 tqdm
 redis
-parameterized
-dragonfly-opt==0.1.5 -v
+matplotlib
+parameterized 
+dragonfly-opt==0.1.5
 cython
 POT
